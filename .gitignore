@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Gradio cache / outputs
+.gradio/
+
+# Data (optional: nếu bạn không muốn up data)
+# data-bbc/
+
+# Large artifacts (optional: nếu file .pkl lớn)
+# *.pkl
+# *.htmlgit init
