@@ -51,7 +51,12 @@ The dataset is stored in `data-bbc/`:
 
 - Python 3.9+ (recommended)
 - pip
+Install dependencies:
 
+```bash
+pip install pandas scikit-learn gradio
+```
+---
 ## How to run
 1. Clone the repository
 
